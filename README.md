@@ -3,6 +3,4 @@ Usei o comando find pois ele encontra por automatico ficheiros que foram alterad
 Aseguir a ele estao as diretorias onde o comando vai executar.
 
 Usei o comando last pois ele por default lidta os ultimos utilizadores qie estiveram logados no pc
- O | serve para redirecionar o output de last para grep.
- O comando grep serve para filtrar ficheiros encontrados por uma certa especificacao.
- neste caso como last automaticamente le o ficheiro de logs o eu coloquei a filtragem de grep para apenas o dia de hoje e de ontem 
+Junto com o last usei o modificador -s que faz com que de para listar apenas os usuarios que deram login desde um certo horario(Neste caso apenas lista utilizadores que deram login ate a 1 dia atras)
