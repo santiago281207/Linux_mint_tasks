@@ -1,5 +1,5 @@
-# Linux_mint_tasks
-#Ficha 1 -Verificar alteraçoes e registar logins
+# Ficha 1
+ -Verificar alteraçoes e registar logins
 Usei o comando find pois ele encontra modificacoes. Coloquei o modificador -type f para filtrar apenas ficheiros. 
 E tambem usei o modificador -mtime que verifica desde um horario especifico. No caso -mtime -1 que signfiica verificar nas ultimas 24 horas
 
